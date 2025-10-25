@@ -5,7 +5,6 @@ Mobile-API for [TurboTrack VPN](https://play.google.com/store/apps/details?id=co
 ```cs
 using System;
 using TurboTrackVpnApi;
-using System.Threading.Tasks;
 
 namespace Application
 {
