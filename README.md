@@ -3,7 +3,6 @@ Mobile-API for [TurboTrack VPN](https://play.google.com/store/apps/details?id=co
 
 ## Example
 ```cs
-using System;
 using TurboTrackVpnApi;
 
 namespace Application
